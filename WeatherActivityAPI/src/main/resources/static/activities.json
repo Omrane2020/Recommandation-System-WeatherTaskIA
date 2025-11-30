@@ -1,0 +1,1820 @@
+[
+  {
+    "icon": "🎯",
+    "title": "Randonnée",
+    "tags": [
+      "outdoor",
+      "sun-critical",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🚴",
+    "title": "Cyclisme",
+    "tags": [
+      "outdoor",
+      "wind-sensitive",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🏃",
+    "title": "Running",
+    "tags": [
+      "outdoor",
+      "rain-prohibited",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🧺",
+    "title": "Pique-nique",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "📸",
+    "title": "Photographie",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🛍️",
+    "title": "Shopping",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🍽️",
+    "title": "Restaurant",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎾",
+    "title": "Tennis",
+    "tags": [
+      "outdoor",
+      "rain-prohibited",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🏊",
+    "title": "Piscine",
+    "tags": [
+      "outdoor",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "🧘",
+    "title": "Yoga",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "⚽",
+    "title": "Football",
+    "tags": [
+      "outdoor",
+      "rain-prohibited",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🏀",
+    "title": "Basketball",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🏐",
+    "title": "Volleyball",
+    "tags": [
+      "outdoor",
+      "wind-sensitive",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🎣",
+    "title": "Pêche",
+    "tags": [
+      "outdoor",
+      "sun-critical",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "🚣",
+    "title": "Kayak",
+    "tags": [
+      "outdoor",
+      "rain-prohibited",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "⛳",
+    "title": "Golf",
+    "tags": [
+      "outdoor",
+      "sun-critical",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🏂",
+    "title": "Snowboard",
+    "tags": [
+      "outdoor",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "⛷️",
+    "title": "Ski",
+    "tags": [
+      "outdoor",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "🎳",
+    "title": "Bowling",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎬",
+    "title": "Cinéma",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🖼️",
+    "title": "Musée",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎮",
+    "title": "Gaming",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🌳",
+    "title": "Jardinage",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🔥",
+    "title": "Barbecue",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🏖️",
+    "title": "Plage",
+    "tags": [
+      "outdoor",
+      "sun-critical",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🪁",
+    "title": "Cerf-volant",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "📚",
+    "title": "Lecture au parc",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🚗",
+    "title": "Road Trip",
+    "tags": [
+      "outdoor",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🐕",
+    "title": "Promenade avec le chien",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🛹",
+    "title": "Skateboard",
+    "tags": [
+      "outdoor",
+      "rain-prohibited",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🧖",
+    "title": "Spa",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🏋️",
+    "title": "Salle de sport",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "👟",
+    "title": "Marche rapide",
+    "tags": [
+      "outdoor",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🐦",
+    "title": "Observation des oiseaux",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🎤",
+    "title": "Karaoke",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎨",
+    "title": "Peinture en plein-air",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "📖",
+    "title": "Bibliothèque",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🧩",
+    "title": "Jeux de société",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🥾",
+    "title": "Trekking",
+    "tags": [
+      "outdoor",
+      "sun-critical",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🚤",
+    "title": "Bateau",
+    "tags": [
+      "outdoor",
+      "wind-sensitive",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🪂",
+    "title": "Parapente",
+    "tags": [
+      "outdoor",
+      "wind-sensitive",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🚵",
+    "title": "VTT",
+    "tags": [
+      "outdoor",
+      "rain-prohibited",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🏉",
+    "title": "Rugby",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🥏",
+    "title": "Frisbee",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "⛸️",
+    "title": "Patinage sur glace",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎿",
+    "title": "Ski de fond",
+    "tags": [
+      "outdoor",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "🏹",
+    "title": "Tir à l'arc",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🚤",
+    "title": "Jet Ski",
+    "tags": [
+      "outdoor",
+      "wind-sensitive",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🐫",
+    "title": "Promenade à dos de chameau",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🚶",
+    "title": "Balade tranquille",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🏰",
+    "title": "Visite de monuments",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🚁",
+    "title": "Tour en hélicoptère",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🚤",
+    "title": "Croisière",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🧗",
+    "title": "Escalade",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "⛵",
+    "title": "Voile",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🛶",
+    "title": "Canoë",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🚣",
+    "title": "Paddle",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🏄",
+    "title": "Surf",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🎡",
+    "title": "Fête foraine",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🎢",
+    "title": "Parc d'attractions",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🧺",
+    "title": "Marché artisanal",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🎭",
+    "title": "Théâtre",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎻",
+    "title": "Concert classique",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎧",
+    "title": "Concert moderne",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🏛️",
+    "title": "Site historique",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🏞️",
+    "title": "Parc naturel",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🚜",
+    "title": "Visite d'une ferme",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🎯",
+    "title": "Tir sportif",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎰",
+    "title": "Casino",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🧬",
+    "title": "Escape Game",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🧵",
+    "title": "Atelier DIY",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🕹️",
+    "title": "Arcade",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "📸",
+    "title": "Street Photography",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🛍️",
+    "title": "Centre commercial",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🍿",
+    "title": "Netflix & Chill",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🛏️",
+    "title": "Sieste",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "📖",
+    "title": "Lecture à la maison",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "👨‍🍳",
+    "title": "Cours de cuisine",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🌌",
+    "title": "Observation des étoiles",
+    "tags": [
+      "outdoor",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "🔥",
+    "title": "Feu de camp",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🚑",
+    "title": "Formation premiers secours",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🚿",
+    "title": "Hammam",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎨",
+    "title": "Atelier peinture",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "📚",
+    "title": "Étude / révision",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "⛩️",
+    "title": "Visite de temples",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🔭",
+    "title": "Observation au télescope",
+    "tags": [
+      "outdoor",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "🏺",
+    "title": "Archéologie",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🧴",
+    "title": "Tanning",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🛁",
+    "title": "Bain relaxant",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🕯️",
+    "title": "Méditation",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "💃",
+    "title": "Danse",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🥽",
+    "title": "Plongée",
+    "tags": [
+      "outdoor",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🎯",
+    "title": "Fléchettes",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎳",
+    "title": "Mini-golf",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🎮",
+    "title": "E-sport",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🏪",
+    "title": "Shopping local",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🧃",
+    "title": "Café terrasse",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🚴",
+    "title": "Vélos électriques",
+    "tags": [
+      "outdoor",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🏋️",
+    "title": "CrossFit",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎾",
+    "title": "Padel",
+    "tags": [
+      "outdoor",
+      "rain-prohibited",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🥽",
+    "title": "Snorkeling",
+    "tags": [
+      "outdoor",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🚙",
+    "title": "Safari",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🏎️",
+    "title": "Karting",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🪵",
+    "title": "Bushcraft",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🐎",
+    "title": "Équitation",
+    "tags": [
+      "outdoor",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🚤",
+    "title": "Bateau promenade",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🎤",
+    "title": "Open mic",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎯",
+    "title": "Airsoft",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🔧",
+    "title": "Atelier mécanique",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "👾",
+    "title": "Réalité virtuelle",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎽",
+    "title": "Zumba",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🔪",
+    "title": "Atelier cuisine japonaise",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🚶",
+    "title": "Randonnée légère",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🌧️",
+    "title": "Promenade sous la pluie",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🤳",
+    "title": "Shooting Instagram",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🏓",
+    "title": "Ping-pong",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🎯",
+    "title": "Laser Game",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎱",
+    "title": "Billard",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎨",
+    "title": "Street Art",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🎶",
+    "title": "Music Jam",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🔫",
+    "title": "Paintball",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🧖",
+    "title": "Sauna",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🏋️",
+    "title": "BodyPump",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "👣",
+    "title": "Marche méditative",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🛒",
+    "title": "Courses",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🛏️",
+    "title": "Détente maison",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "💅",
+    "title": "Manucure",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "💆",
+    "title": "Massage",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🍰",
+    "title": "Pâtisserie",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎙️",
+    "title": "Podcast",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🪐",
+    "title": "Planétarium",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🤼",
+    "title": "Lutte",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🤸",
+    "title": "Gymnastique",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🌄",
+    "title": "Sunrise Watching",
+    "tags": [
+      "outdoor",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "🌅",
+    "title": "Sunset Watching",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🎳",
+    "title": "Bowling nocturne",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🖨️",
+    "title": "Impression 3D atelier",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🏜️",
+    "title": "Exploration désert",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🌊",
+    "title": "Jet Boat",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🛼",
+    "title": "Roller",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🏕️",
+    "title": "Camping",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🧭",
+    "title": "Orientation",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🚣",
+    "title": "Aviron",
+    "tags": [
+      "outdoor",
+      "rain-prohibited",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🏖️",
+    "title": "Volley plage",
+    "tags": [
+      "outdoor",
+      "sun-critical",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "⛷️",
+    "title": "Ski nautique",
+    "tags": [
+      "outdoor",
+      "temp-max",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🔍",
+    "title": "Géocaching",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🪂",
+    "title": "Saut en parachute",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🪴",
+    "title": "Jardin potager",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🍂",
+    "title": "Collecte de feuilles",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🌋",
+    "title": "Exploration volcanique",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🐠",
+    "title": "Aquarium",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🏟️",
+    "title": "Match sportif",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🎨",
+    "title": "Atelier sculpture",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "📚",
+    "title": "Club de lecture",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🧩",
+    "title": "Puzzle géant",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎼",
+    "title": "Répétition musicale",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🧪",
+    "title": "Atelier science",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🏰",
+    "title": "Escape médiéval",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🛶",
+    "title": "Rafting",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🧗",
+    "title": "Via Ferrata",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "📷",
+    "title": "Macro Photography",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🦅",
+    "title": "Fauconnerie",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🐧",
+    "title": "Parc animalier",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🎤",
+    "title": "Karaoké en plein air",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🏤",
+    "title": "Visite de ville",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🥋",
+    "title": "Judo",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🥊",
+    "title": "Boxe",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🏊",
+    "title": "Aquagym",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎬",
+    "title": "Projection plein air",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "♟️",
+    "title": "Tournoi d'échecs",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🖥️",
+    "title": "Développement logiciel",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🧹",
+    "title": "Grand nettoyage",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🛠️",
+    "title": "Bricolage",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🛖",
+    "title": "Visite culturelle",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🏜️",
+    "title": "Trek désertique",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🔥",
+    "title": "Cuisson feu de bois",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🌪️",
+    "title": "Chasse aux orages (sécurisée)",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🧗",
+    "title": "Bloc en salle",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🧘",
+    "title": "Yoga chaud",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎯",
+    "title": "Cible gonflable",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🦾",
+    "title": "Robotique",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎮",
+    "title": "LAN Party",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🏇",
+    "title": "Polo",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🚂",
+    "title": "Musée ferroviaire",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🧊",
+    "title": "Découverte grottes",
+    "tags": [
+      "outdoor",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "🛍️",
+    "title": "Vide-grenier",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🍹",
+    "title": "Rooftop chill",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🏄",
+    "title": "Bodyboard",
+    "tags": [
+      "outdoor",
+      "temp-max",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🪓",
+    "title": "Lancer de hache",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🏹",
+    "title": "Parc aventure",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🎭",
+    "title": "Improvisation",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🕺",
+    "title": "Salsa",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🍇",
+    "title": "Dégustation",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🌲",
+    "title": "Bushwalk",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🚣",
+    "title": "Randonnée aquatique",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🚁",
+    "title": "Drone flying",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🏏",
+    "title": "Cricket",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🎯",
+    "title": "Tir précision",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🛹",
+    "title": "Longboard",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🌁",
+    "title": "Photography Fog",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🌦️",
+    "title": "Rainbow hunting",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🏜️",
+    "title": "Sandboarding",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🐕",
+    "title": "Agility chien",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🎨",
+    "title": "Calligraphie",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🪘",
+    "title": "Percussion",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🛰️",
+    "title": "Observation satellites",
+    "tags": [
+      "outdoor",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "🏃",
+    "title": "Sprint",
+    "tags": [
+      "outdoor",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🏹",
+    "title": "Tir long",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🚤",
+    "title": "Speed Boat",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🌊",
+    "title": "Kite Surf",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🎒",
+    "title": "Backpacking",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🌿",
+    "title": "Foraging",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🛍️",
+    "title": "Marché bio",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🎉",
+    "title": "Festival plein air",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🚵",
+    "title": "Downhill",
+    "tags": [
+      "outdoor",
+      "rain-prohibited"
+    ]
+  },
+  {
+    "icon": "🏄",
+    "title": "Windsurf",
+    "tags": [
+      "outdoor",
+      "wind-sensitive"
+    ]
+  },
+  {
+    "icon": "🏇",
+    "title": "Horse trekking",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🍜",
+    "title": "Food Tour",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🥁",
+    "title": "Street Drumming",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🛶",
+    "title": "Kayak relax",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🏔️",
+    "title": "Hiking extrême",
+    "tags": [
+      "outdoor",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "🌙",
+    "title": "Night Walk",
+    "tags": [
+      "outdoor",
+      "temp-min"
+    ]
+  },
+  {
+    "icon": "🎳",
+    "title": "Arcade Bowling",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🎹",
+    "title": "Piano chill",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🏊",
+    "title": "Natation libre",
+    "tags": [
+      "outdoor",
+      "temp-max"
+    ]
+  },
+  {
+    "icon": "🚴",
+    "title": "Bike Tour",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🛠️",
+    "title": "Woodworking",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "⚙️",
+    "title": "Modélisme",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🧶",
+    "title": "Crochet",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "📷",
+    "title": "Portrait Photography",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🍉",
+    "title": "Picnic Brunch",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🛝",
+    "title": "Aire de jeux",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🏟️",
+    "title": "Stade visite",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🎖️",
+    "title": "Parc militaire",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🧗",
+    "title": "Mur escalade indoor",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🛹",
+    "title": "Skatepark indoor",
+    "tags": [
+      "indoor"
+    ]
+  },
+  {
+    "icon": "🧘",
+    "title": "Yoga nature",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🌧️",
+    "title": "Rain Walk chill",
+    "tags": [
+      "outdoor"
+    ]
+  },
+  {
+    "icon": "🐚",
+    "title": "Recherche coquillages",
+    "tags": [
+      "outdoor",
+      "sun-critical"
+    ]
+  },
+  {
+    "icon": "🌿",
+    "title": "Botanical Garden",
+    "tags": [
+      "outdoor"
+    ]
+  }
+]
